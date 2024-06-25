@@ -1,0 +1,196 @@
+.tahoma-font {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  font-size: 26px;
+  margin-bottom: 20px;
+}
+
+.biggest-deals {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 26px;
+  margin-bottom: 5px;
+}
+
+.sales-end {
+  font-family: Arial, Helvetica, sans-serif;
+  color: red;
+  font-style: italic;
+  font-size: 17px;
+  margin-bottom: 30px;
+}
+
+.ex5c {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.vid-title {
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 4px;
+}
+
+.sub-title {
+  color: grey;
+  margin-bottom: 20px;
+}
+
+.vid-description {
+  width: 300px;
+  margin-bottom: 20px;
+}
+
+.start {
+  border: none;
+  background-color: rgb(0, 131, 0);
+  color: white;
+  padding: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-bottom: 50px;
+}
+
+.ex5d {
+  font-family: Arial;
+  text-align: center;
+}
+
+.apple-business {
+  margin-top: 10px;
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 17px;
+}
+
+.apple-description {
+  margin-bottom: 18px;
+}
+
+.learn-more {
+  color: blue;
+  cursor: pointer;
+}
+
+.learn-more:hover {
+  text-decoration: underline;
+  opacity: 70%;
+}
+
+.ex5e {
+  margin-top: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.new {
+  margin-top: 10px;
+  color: red;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.macbook-title {
+  font-weight: bold;
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+.slogan {
+  font-weight: bold;
+  font-size: 47px;
+  margin-bottom: 14px;
+
+}
+
+.price {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.buy {
+  border: none;
+  font-size: 16px;
+  background-color: blue;
+  color: white;
+  padding-left: 17px;
+  padding-right: 17px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 20px;
+  margin-bottom: 50px;
+  cursor: pointer;
+}
+
+.buy:hover {
+  opacity: 70%;
+}
+
+.ex5f {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 10px;
+  margin-bottom: 50px;
+}
+
+.dollar-worth {
+  font-size: 34px;
+  margin-bottom: 10px;
+}
+
+.usd {
+  margin-left: 10px;
+  color: grey;
+  margin-bottom: 10px;
+}
+
+.worth-change-today {
+  margin-top: 7px;
+  color: green;
+  margin-bottom: 8px;
+}
+
+.after {
+  color: grey;
+}
+
+.worth-change-hours {
+  color: red;
+}
+
+.ex5g {
+  font-family: Arial;
+  margin-left: 10px;
+  line-height: 23px;
+  margin-bottom: 50px;
+}
+
+.first-line {
+  margin-top: 10px;
+}
+
+.website {
+  font-weight: bold;
+}
+
+.username {
+  color: grey;
+  cursor: pointer;
+}
+
+
+.tweet-text {
+  margin-top: 6px;
+  width: 500px;
+  margin-bottom: 10px;
+}
+
+.account-tag {
+  color: rgb(75, 144, 241);
+  cursor: pointer;
+}
+
+.account-tag:hover {
+  opacity: 70%;
+  text-decoration: underline;
+}
